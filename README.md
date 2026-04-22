@@ -1,7 +1,6 @@
 # 👋 Fala aí, eu sou o Yan!
 
 💻 Analista Desenvolvedor Júnior na **Agenda Assessoria**  
-🚀 Focado em desenvolvimento web e boas práticas de UX/UI  
 
 ---
 
@@ -14,19 +13,7 @@
 
 ---
 
-## 💼 Sobre mim
-
-Sou desenvolvedor com foco em criar soluções funcionais e bem pensadas, sempre buscando melhorar a experiência do usuário. Tenho experiência tanto no front-end quanto no back-end, o que me ajuda a ter uma visão mais completa dos projetos.
-
----
-
 ## 🔗 Onde me encontrar
 
 - 📸 Instagram: [@hodniukyan](https://instagram.com/hodniukyan)  
 - 🌐 Portfólio: https://portfolio-yan-c5x5.vercel.app/  
-
----
-
-## 🚧 Em constante evolução
-
-Sempre aprendendo e buscando evoluir como desenvolvedor 🚀
