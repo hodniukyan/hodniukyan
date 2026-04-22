@@ -1,10 +1,10 @@
-# 👋 Fala aí, eu sou o Yan!
+# Hey, I'm Yan!
 
-💻 Analista Desenvolvedor Júnior na **Agenda Assessoria**  
+💻 Junior Software Developer at **Agenda Assessoria**  
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## 🧠 Languages and Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,js,react,nodejs,dotnet,mongodb,mysql" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔗 Onde me encontrar
+## 🔗 Where to find me
 
 - 📸 Instagram: [@hodniukyan](https://instagram.com/hodniukyan)  
-- 🌐 Portfólio: https://portfolio-yan-c5x5.vercel.app/  
+- 🌐 Portfolio: https://portfolio-yan-c5x5.vercel.app/  
