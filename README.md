@@ -8,7 +8,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,js,react,nodejs,dotnet,mongodb,mysql" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
